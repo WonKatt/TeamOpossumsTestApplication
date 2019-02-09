@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2913f729-4760-41aa-a6ba-81cc56ac1b24" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/PhotoModelLogic.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="38" selection-end-column="38" />
+              <folding>
+                <marker date="1549671559073" expanded="false" signature="6:143" ph="..." />
+                <marker date="1549671559073" expanded="true" signature="197:1233" ph="{...}" />
+                <marker date="1549671559073" expanded="true" signature="249:1231" ph="{...}" />
+                <marker date="1549671559073" expanded="true" signature="374:426" ph="{...}" />
+                <marker date="1549671559073" expanded="true" signature="718:834" ph="{...}" />
+                <marker date="1549671559073" expanded="true" signature="904:1021" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Home/About.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <folding>
+                <marker date="1549512300796" expanded="true" signature="0:37" ph="@..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Shared/_Layout.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
+              <folding>
+                <marker date="1549512300847" expanded="true" signature="16:3405" ph="&lt;html.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="23:857" ph="&lt;head.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="205:395" ph="&lt;environment.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="400:849" ph="&lt;environment.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="858:3397" ph="&lt;body.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="869:1944" ph="&lt;nav.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="930:1933" ph="&lt;div.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="966:1494" ph="&lt;div.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="1010:1354" ph="&lt;button.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="1507:1918" ph="&lt;div.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="1562:1899" ph="&lt;ul.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="1996:2172" ph="&lt;div.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="2078:2161" ph="&lt;footer.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="2178:2432" ph="&lt;environment.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="2437:3341" ph="&lt;environment.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="2481:2829" ph="&lt;script.../&gt;" />
+                <marker date="1549512300847" expanded="true" signature="2838:3247" ph="&lt;script.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FlickerDbModel/Photo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+              <folding>
+                <marker date="1549690899929" expanded="false" signature="6:47" ph="..." />
+                <marker date="1549690899929" expanded="true" signature="73:374" ph="{...}" />
+                <marker date="1549690899929" expanded="true" signature="106:372" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IFacesModelLogic.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <marker date="1549682694578" expanded="true" signature="6:115" ph="..." />
+                <marker date="1549682694578" expanded="true" signature="158:426" ph="{...}" />
+                <marker date="1549682694578" expanded="true" signature="198:424" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+              <folding>
+                <marker date="1549694170629" expanded="false" signature="6:287" ph="..." />
+                <marker date="1549694170629" expanded="true" signature="341:6763" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="394:6761" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="642:724" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="819:1926" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="917:1873" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="1016:1507" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="1743:1855" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="2010:4305" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="2056:4170" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="2191:3868" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="2335:2448" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="2472:2571" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="2622:3566" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="2747:3544" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="3621:3699" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="3723:3851" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="3888:4155" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="4187:4295" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="4379:5013" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="4456:5003" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="4713:4810" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="4831:4989" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="5386:5739" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="6037:6267" ph="{...}" />
+                <marker date="1549694170629" expanded="true" signature="6332:6551" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/FaceobjectFromResponse.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+              <folding>
+                <marker date="1549651217367" expanded="true" signature="32:197" ph="{...}" />
+                <marker date="1549651217367" expanded="true" signature="74:195" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/Response.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-end-line="12" />
+              <folding>
+                <marker date="1549672995161" expanded="false" signature="6:55" ph="..." />
+                <marker date="1549672995161" expanded="true" signature="89:379" ph="{...}" />
+                <marker date="1549672995161" expanded="true" signature="117:377" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+              <folding>
+                <marker date="1549686847104" expanded="false" signature="6:150" ph="..." />
+                <marker date="1549686847104" expanded="true" signature="206:824" ph="{...}" />
+                <marker date="1549686847104" expanded="true" signature="297:822" ph="{...}" />
+                <marker date="1549686847104" expanded="true" signature="516:617" ph="{...}" />
+                <marker date="1549686847104" expanded="true" signature="708:815" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+              <folding>
+                <marker date="1549695356852" expanded="true" signature="6:526" ph="..." />
+                <marker date="1549695356852" expanded="true" signature="561:2840" ph="{...}" />
+                <marker date="1549695356852" expanded="true" signature="588:2838" ph="{...}" />
+                <marker date="1549695356852" expanded="true" signature="642:937" ph="{...}" />
+                <marker date="1549695356852" expanded="true" signature="1164:2062" ph="{...}" />
+                <marker date="1549695356852" expanded="true" signature="1301:1578" ph="{...}" />
+                <marker date="1549695356852" expanded="true" signature="2250:2832" ph="{...}" />
+                <marker date="1549695356852" expanded="true" signature="2297:2374" ph="{...}" />
+                <marker date="1549695356852" expanded="true" signature="2391:2506" ph="{...}" />
+                <marker date="1549695356852" expanded="true" signature="2649:2820" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>using(</find>
+      <find>d5h6stb</find>
+      <find>async void</find>
+      <find>awa</find>
+      <find>async</find>
+      <find>IsEmotionsObjectEmpty</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DE46E3C-963E-4872-8A29-95FD027553CC/6c/16f4ec57/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Migrations/20190208022816_Change reletionships beetwen tables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IFacesModelLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IPhotoModelLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FlickerDbModel/d5h6stb0hfhccqContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/PhotoModelLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FlickerDbModel/Photo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FlickerDbModel/Faces.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Shared/_ValidationScriptsPartial.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/Response.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/FaceobjectFromResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/AttributesFromResopnse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/EmotionsFromResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Models/GetEmotion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/OpossumsTestApplication/OpossumsTestApplication.csproj" />
+        <option value="$PROJECT_DIR$/FlickersPicturesDB/Class1.cs" />
+        <option value="$PROJECT_DIR$/ClassLibrary1/Class1.cs" />
+        <option value="$PROJECT_DIR$/OpossumsTestApplication/Models/GetEmotion.cs" />
+        <option value="$PROJECT_DIR$/FlickerDbModels/Class1.cs" />
+        <option value="$PROJECT_DIR$/FlickerDbModel/connection.json" />
+        <option value="$PROJECT_DIR$/OpossumsTestApplication/connection.json" />
+        <option value="$PROJECT_DIR$/FlickerDbModel/Class1.cs" />
+        <option value="$PROJECT_DIR$/OpossumsTestApplication/Migrations/20190208022816_Change reletionships beetwen tables.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/Class1.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/IPhototModelLogic.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/IFacesModelLogic.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/IPhotoModelLogic.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesLogic.cs" />
+        <option value="$PROJECT_DIR$/OpossumsTestApplication/Program.cs" />
+        <option value="$PROJECT_DIR$/FlickerDbModel/d5h6stb0hfhccqContext.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/HelpClasses/AttributesFromResopnse.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/HelpClasses/FaceobjectFromResponse.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/HelpClasses/EmotionsFromResponse.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IPhotoModelLogic.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/PhotoModelLogic.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/HelpClasses/Response.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IFacesModelLogic.cs" />
+        <option value="$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs" />
+        <option value="$PROJECT_DIR$/FlickerDbModel/Photo.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs" />
+        <option value="$PROJECT_DIR$/OpossumsTestApplication/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="FlickerDbModel" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ModelLogic" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ModelLogic" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="HelpClasses" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ModelLogic" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ModelLogicInterfaces" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ModelLogic" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ModelLogicInterfacesRealization" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="REST API" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Home" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ShopProject/Shop/Shop.sln" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="OpossumsTestApplication" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/OpossumsTestApplication/OpossumsTestApplication.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="OpossumsTestApplication" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2913f729-4760-41aa-a6ba-81cc56ac1b24" name="Default Changelist" comment="" />
+      <created>1549400766568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549400766568</updated>
+      <workItem from="1549400769619" duration="813000" />
+      <workItem from="1549401708554" duration="1998000" />
+      <workItem from="1549405280567" duration="1526000" />
+      <workItem from="1549507451959" duration="8951000" />
+      <workItem from="1549556842829" duration="1480000" />
+      <workItem from="1549572738796" duration="1690000" />
+      <workItem from="1549583752526" duration="41122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57580000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1536" height="864" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20939597" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.2983565" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3426043" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49932885" weight="0.50708216" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="REST Client" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50067115" side_tool="true" weight="0.32743362" />
+      <window_info anchor="bottom" id="Build" order="16" sideWeight="0.49932885" weight="0.32743362" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19664429" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.3830594" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.20986094" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49932885" weight="0.50708216" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="REST Client" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50067115" side_tool="true" weight="0.32743362" />
+      <window_info active="true" anchor="bottom" id="Build" order="16" sideWeight="0.49932885" visible="true" weight="0.32743362" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs</url>
+          <line>24</line>
+          <properties documentPath="$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs" initialLine="23">
+            <startOffsets>
+              <option value="717" />
+            </startOffsets>
+            <endOffsets>
+              <option value="718" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs</url>
+          <line>28</line>
+          <properties documentPath="$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs" initialLine="32">
+            <startOffsets>
+              <option value="793" />
+            </startOffsets>
+            <endOffsets>
+              <option value="805" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.nuget/packages/microsoft.aspnetcore.razor.design/2.1.0/build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.CodeGeneration.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1549512300901" expanded="true" signature="55:221" ph="{...}" />
+            <marker date="1549512300901" expanded="true" signature="89:219" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlickersPicturesDB/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlickersPicturesDB/FlickersPicturesDB.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassLibrary1/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlickerDbModels/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/OpossumsTestApplication.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlickerDbModel/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassLibrary1/ClassLibrary1.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Migrations/20190208022816_Change reletionships beetwen tables.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <marker date="1549596397287" expanded="false" signature="6:101" ph="..." />
+            <marker date="1549596397287" expanded="true" signature="147:426" ph="{...}" />
+            <marker date="1549596397287" expanded="true" signature="219:424" ph="{...}" />
+            <marker date="1549596397287" expanded="true" signature="295:316" ph="{...}" />
+            <marker date="1549596397287" expanded="true" signature="389:418" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/IPhototModelLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlickerDbModel/connection.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <marker date="1549646999235" expanded="true" signature="6:125" ph="..." />
+            <marker date="1549646999235" expanded="true" signature="160:1126" ph="{...}" />
+            <marker date="1549646999235" expanded="true" signature="187:1124" ph="{...}" />
+            <marker date="1549646999235" expanded="true" signature="240:314" ph="{...}" />
+            <marker date="1549646999235" expanded="true" signature="535:1113" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlickerDbModel/d5h6stb0hfhccqContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="67" column="38" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
+          <folding>
+            <marker date="1549591240637" expanded="false" signature="6:96" ph="..." />
+            <marker date="1549591240637" expanded="true" signature="122:2267" ph="{...}" />
+            <marker date="1549591240637" expanded="true" signature="183:2265" ph="{...}" />
+            <marker date="1549591240637" expanded="true" signature="303:323" ph="{...}" />
+            <marker date="1549591240637" expanded="true" signature="513:2259" ph="{...}" />
+            <marker date="1549591240637" expanded="true" signature="656:1592" ph="{...}" />
+            <marker date="1549591240637" expanded="true" signature="1644:2247" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/SQL-Insert-Statements.sql.groovy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/HTML-JavaScript.html.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlickerDbModel/Faces.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <marker date="1549582915434" expanded="false" signature="6:47" ph="..." />
+            <marker date="1549582915434" expanded="true" signature="73:561" ph="{...}" />
+            <marker date="1549582915434" expanded="true" signature="106:559" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DE46E3C-963E-4872-8A29-95FD027553CC/6c/16f4ec57/ExceptionDispatchInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="91" column="6" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/AttributesFromResopnse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding>
+            <marker date="1549651493442" expanded="true" signature="32:146" ph="{...}" />
+            <marker date="1549651493442" expanded="true" signature="73:144" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/EmotionsFromResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <marker date="1549663979082" expanded="true" signature="32:400" ph="{...}" />
+            <marker date="1549663979082" expanded="true" signature="72:398" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Models/GetEmotion.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <marker date="1549558449914" expanded="false" signature="6:238" ph="..." />
+            <marker date="1549558449914" expanded="true" signature="280:3012" ph="{...}" />
+            <marker date="1549558449914" expanded="true" signature="358:2205" ph="{...}" />
+            <marker date="1549558449914" expanded="true" signature="522:572" ph="{...}" />
+            <marker date="1549558449914" expanded="true" signature="651:911" ph="{...}" />
+            <marker date="1549558449914" expanded="true" signature="696:883" ph="{...}" />
+            <marker date="1549558449914" expanded="true" signature="954:1063" ph="{...}" />
+            <marker date="1549558449914" expanded="true" signature="1136:2199" ph="{...}" />
+            <marker date="1549558449914" expanded="true" signature="1234:2160" ph="{...}" />
+            <marker date="1549558449914" expanded="true" signature="1326:2146" ph="{...}" />
+            <marker date="1549558449914" expanded="true" signature="2236:2478" ph="{...}" />
+            <marker date="1549558449914" expanded="true" signature="2501:2611" ph="{...}" />
+            <marker date="1549558449914" expanded="true" signature="2640:2698" ph="{...}" />
+            <marker date="1549558449914" expanded="true" signature="2725:3010" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IPhotoModelLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1549671559086" expanded="false" signature="6:85" ph="..." />
+            <marker date="1549671559086" expanded="true" signature="128:480" ph="{...}" />
+            <marker date="1549671559086" expanded="true" signature="168:478" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <marker date="1549686847104" expanded="false" signature="6:150" ph="..." />
+            <marker date="1549686847104" expanded="true" signature="206:824" ph="{...}" />
+            <marker date="1549686847104" expanded="true" signature="297:822" ph="{...}" />
+            <marker date="1549686847104" expanded="true" signature="516:617" ph="{...}" />
+            <marker date="1549686847104" expanded="true" signature="708:815" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/PhotoModelLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="38" selection-end-column="38" />
+          <folding>
+            <marker date="1549671559073" expanded="false" signature="6:143" ph="..." />
+            <marker date="1549671559073" expanded="true" signature="197:1233" ph="{...}" />
+            <marker date="1549671559073" expanded="true" signature="249:1231" ph="{...}" />
+            <marker date="1549671559073" expanded="true" signature="374:426" ph="{...}" />
+            <marker date="1549671559073" expanded="true" signature="718:834" ph="{...}" />
+            <marker date="1549671559073" expanded="true" signature="904:1021" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/Response.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-end-line="12" />
+          <folding>
+            <marker date="1549672995161" expanded="false" signature="6:55" ph="..." />
+            <marker date="1549672995161" expanded="true" signature="89:379" ph="{...}" />
+            <marker date="1549672995161" expanded="true" signature="117:377" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/FaceobjectFromResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+          <folding>
+            <marker date="1549651217367" expanded="true" signature="32:197" ph="{...}" />
+            <marker date="1549651217367" expanded="true" signature="74:195" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <marker date="1549694170629" expanded="false" signature="6:287" ph="..." />
+            <marker date="1549694170629" expanded="true" signature="341:6763" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="394:6761" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="642:724" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="819:1926" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="917:1873" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="1016:1507" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="1743:1855" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="2010:4305" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="2056:4170" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="2191:3868" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="2335:2448" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="2472:2571" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="2622:3566" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="2747:3544" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="3621:3699" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="3723:3851" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="3888:4155" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="4187:4295" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="4379:5013" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="4456:5003" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="4713:4810" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="4831:4989" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="5386:5739" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="6037:6267" ph="{...}" />
+            <marker date="1549694170629" expanded="true" signature="6332:6551" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IFacesModelLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <marker date="1549682694578" expanded="true" signature="6:115" ph="..." />
+            <marker date="1549682694578" expanded="true" signature="158:426" ph="{...}" />
+            <marker date="1549682694578" expanded="true" signature="198:424" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlickerDbModel/Photo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <marker date="1549690899929" expanded="false" signature="6:47" ph="..." />
+            <marker date="1549690899929" expanded="true" signature="73:374" ph="{...}" />
+            <marker date="1549690899929" expanded="true" signature="106:372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+          <folding>
+            <marker date="1549512300847" expanded="true" signature="16:3405" ph="&lt;html.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="23:857" ph="&lt;head.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="205:395" ph="&lt;environment.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="400:849" ph="&lt;environment.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="858:3397" ph="&lt;body.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="869:1944" ph="&lt;nav.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="930:1933" ph="&lt;div.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="966:1494" ph="&lt;div.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="1010:1354" ph="&lt;button.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="1507:1918" ph="&lt;div.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="1562:1899" ph="&lt;ul.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="1996:2172" ph="&lt;div.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="2078:2161" ph="&lt;footer.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="2178:2432" ph="&lt;environment.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="2437:3341" ph="&lt;environment.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="2481:2829" ph="&lt;script.../&gt;" />
+            <marker date="1549512300847" expanded="true" signature="2838:3247" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Home/About.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1549512300796" expanded="true" signature="0:37" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+          <folding>
+            <marker date="1549695356852" expanded="true" signature="6:526" ph="..." />
+            <marker date="1549695356852" expanded="true" signature="561:2840" ph="{...}" />
+            <marker date="1549695356852" expanded="true" signature="588:2838" ph="{...}" />
+            <marker date="1549695356852" expanded="true" signature="642:937" ph="{...}" />
+            <marker date="1549695356852" expanded="true" signature="1164:2062" ph="{...}" />
+            <marker date="1549695356852" expanded="true" signature="1301:1578" ph="{...}" />
+            <marker date="1549695356852" expanded="true" signature="2250:2832" ph="{...}" />
+            <marker date="1549695356852" expanded="true" signature="2297:2374" ph="{...}" />
+            <marker date="1549695356852" expanded="true" signature="2391:2506" ph="{...}" />
+            <marker date="1549695356852" expanded="true" signature="2649:2820" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
