@@ -1,4 +1,5 @@
-﻿using FlickerDbModel;
+﻿using System.IO;
+using FlickerDbModel;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -21,7 +22,7 @@ namespace OpossumsTestApplication
             Configuration = new ConfigurationBuilder()
                 .SetBasePath(env.ContentRootPath)
                 .AddJsonFile(
-                    "C:\\Users\\WonKat\\RiderProjects\\OpossumsTestApplication\\FlickerDbModel\\connection.json")
+                    Directory.GetCurrentDirectory()+"\\wwwroot\\jsons\\DbConnection\\connection.json")
                 .Build();
         }
 
@@ -30,7 +31,6 @@ namespace OpossumsTestApplication
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddSingleton<IHostedService,GetEmotion>();
             services.Configure<CookiePolicyOptions>(options =>
             {
                 // This lambda determines whether user consent for non-essential cookies is needed for a given request.

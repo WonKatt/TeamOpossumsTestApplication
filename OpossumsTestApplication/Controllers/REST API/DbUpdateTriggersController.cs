@@ -21,10 +21,10 @@ namespace OpossumsTestApplication.Controllers.REST_API
 
        
         [HttpGet("FacesDb")]        
-        public IActionResult FacesDbUpdate()
+        public async Task<IActionResult> FacesDbUpdate()
         {
 
-            _facesLogic.FindFacesOnAllPhotos();
+            await _facesLogic.FindFacesOnAllPhotos();
             
             return Ok();
         } 

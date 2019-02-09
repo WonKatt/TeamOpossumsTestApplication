@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\WonKat\\RiderProjects\\OpossumsTestApplication\\TestProject\\TestProject.csproj",
+    "projectName": "TestProject",
+    "projectPath": "C:\\Users\\WonKat\\RiderProjects\\OpossumsTestApplication\\TestProject\\TestProject.csproj",
+    "outputPath": "C:\\Users\\WonKat\\RiderProjects\\OpossumsTestApplication\\TestProject\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "C:\\Users\\WonKat\\RiderProjects\\OpossumsTestApplication\\FlickerDbModel\\FlickerDbModel.csproj": {
+            "projectPath": "C:\\Users\\WonKat\\RiderProjects\\OpossumsTestApplication\\FlickerDbModel\\FlickerDbModel.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.9.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

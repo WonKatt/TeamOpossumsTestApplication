@@ -2,14 +2,17 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using FlickerDbModel;
 using ModelLogic.HelpClasses;
+using ModelLogic.HelpClasses.Pagination_helped_classe;
 
 namespace ModelLogic.ModelLogicInterfaces
 {
     public interface IFacesModelLogic
     {
-        void FindFacesOnPhotos(IEnumerable<Photo> photos);
+        Task FindFacesOnPhotos(IEnumerable<Photo> photos);
         void AddFaceEmotionsOnPhoto(int photoId, EmotionsFromResponse emotions);
-        void FindFacesOnNewPhotos();
-        void FindFacesOnAllPhotos();
+        Task FindFacesOnNewPhotos();
+        Task FindFacesOnAllPhotos();
+        IEnumerable<PhotoInformationResponse> GetTopFearPaginationPhotos(int pageNumber);
+       
     }
 }

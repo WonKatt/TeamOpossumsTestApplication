@@ -13,55 +13,86 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/PhotoModelLogic.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="38" selection-end-column="38" />
+            <state relative-caret-position="16">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
               <folding>
-                <marker date="1549671559073" expanded="false" signature="6:143" ph="..." />
-                <marker date="1549671559073" expanded="true" signature="197:1233" ph="{...}" />
-                <marker date="1549671559073" expanded="true" signature="249:1231" ph="{...}" />
-                <marker date="1549671559073" expanded="true" signature="374:426" ph="{...}" />
-                <marker date="1549671559073" expanded="true" signature="718:834" ph="{...}" />
-                <marker date="1549671559073" expanded="true" signature="904:1021" ph="{...}" />
+                <marker date="1549750718398" expanded="false" signature="6:180" ph="..." />
+                <marker date="1549750718398" expanded="true" signature="234:1593" ph="{...}" />
+                <marker date="1549750718398" expanded="true" signature="286:1591" ph="{...}" />
+                <marker date="1549750718398" expanded="true" signature="411:463" ph="{...}" />
+                <marker date="1549750718398" expanded="true" signature="785:901" ph="{...}" />
+                <marker date="1549750718398" expanded="true" signature="971:1088" ph="{...}" />
+                <marker date="1549750718398" expanded="true" signature="1350:1428" ph="{...}" />
+                <marker date="1549750718398" expanded="true" signature="1493:1585" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Home/About.cshtml">
+        <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IFacesModelLogic.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="210">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
               <folding>
-                <marker date="1549512300796" expanded="true" signature="0:37" ph="@..." />
+                <marker date="1549751468255" expanded="true" signature="6:170" ph="..." />
+                <marker date="1549751468255" expanded="true" signature="213:579" ph="{...}" />
+                <marker date="1549751468255" expanded="true" signature="253:577" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1920">
+              <caret line="141" column="51" selection-start-line="141" selection-start-column="51" selection-end-line="141" selection-end-column="51" />
+              <folding>
+                <marker date="1549752372784" expanded="false" signature="6:442" ph="..." />
+                <marker date="1549752372784" expanded="true" signature="496:7740" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="550:7738" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="859:979" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="1062:2106" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="1160:2064" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="1259:1734" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="1941:2050" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="2189:4446" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="2235:4327" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="2373:4039" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="2507:2624" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="2649:2751" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="2805:3725" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="2910:3702" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="3784:3865" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="3890:4021" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="4060:4312" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="4344:4436" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="4518:5197" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="4597:5187" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="4861:4976" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="4997:5173" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="5556:7158" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="5938:5995" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="6118:6635" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="6457:6598" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="6652:7148" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="6991:7132" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="7246:7731" ph="{...}" />
+                <marker date="1549752372784" expanded="true" signature="7305:7681" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Shared/_Layout.cshtml">
+        <entry file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/Pagination helped classe/PhotoInformationResponse.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="90">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
               <folding>
-                <marker date="1549512300847" expanded="true" signature="16:3405" ph="&lt;html.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="23:857" ph="&lt;head.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="205:395" ph="&lt;environment.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="400:849" ph="&lt;environment.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="858:3397" ph="&lt;body.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="869:1944" ph="&lt;nav.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="930:1933" ph="&lt;div.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="966:1494" ph="&lt;div.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="1010:1354" ph="&lt;button.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="1507:1918" ph="&lt;div.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="1562:1899" ph="&lt;ul.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="1996:2172" ph="&lt;div.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="2078:2161" ph="&lt;footer.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="2178:2432" ph="&lt;environment.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="2437:3341" ph="&lt;environment.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="2481:2829" ph="&lt;script.../&gt;" />
-                <marker date="1549512300847" expanded="true" signature="2838:3247" ph="&lt;script.../&gt;" />
+                <marker date="1549751485107" expanded="true" signature="57:232" ph="{...}" />
+                <marker date="1549751485107" expanded="true" signature="101:230" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -70,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FlickerDbModel/Photo.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            <state relative-caret-position="120">
+              <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
               <folding>
                 <marker date="1549690899929" expanded="false" signature="6:47" ph="..." />
                 <marker date="1549690899929" expanded="true" signature="73:374" ph="{...}" />
@@ -82,78 +113,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IFacesModelLogic.cs">
+        <entry file="file://$PROJECT_DIR$/FlickerDbModel/Faces.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <marker date="1549582915434" expanded="false" signature="6:47" ph="..." />
+                <marker date="1549582915434" expanded="true" signature="73:561" ph="{...}" />
+                <marker date="1549582915434" expanded="true" signature="106:559" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IPhotoModelLogic.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
               <folding>
-                <marker date="1549682694578" expanded="true" signature="6:115" ph="..." />
-                <marker date="1549682694578" expanded="true" signature="158:426" ph="{...}" />
-                <marker date="1549682694578" expanded="true" signature="198:424" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-              <folding>
-                <marker date="1549694170629" expanded="false" signature="6:287" ph="..." />
-                <marker date="1549694170629" expanded="true" signature="341:6763" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="394:6761" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="642:724" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="819:1926" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="917:1873" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="1016:1507" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="1743:1855" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="2010:4305" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="2056:4170" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="2191:3868" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="2335:2448" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="2472:2571" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="2622:3566" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="2747:3544" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="3621:3699" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="3723:3851" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="3888:4155" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="4187:4295" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="4379:5013" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="4456:5003" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="4713:4810" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="4831:4989" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="5386:5739" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="6037:6267" ph="{...}" />
-                <marker date="1549694170629" expanded="true" signature="6332:6551" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/FaceobjectFromResponse.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
-              <folding>
-                <marker date="1549651217367" expanded="true" signature="32:197" ph="{...}" />
-                <marker date="1549651217367" expanded="true" signature="74:195" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/Response.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-end-line="12" />
-              <folding>
-                <marker date="1549672995161" expanded="false" signature="6:55" ph="..." />
-                <marker date="1549672995161" expanded="true" signature="89:379" ph="{...}" />
-                <marker date="1549672995161" expanded="true" signature="117:377" ph="{...}" />
+                <marker date="1549750650314" expanded="false" signature="6:85" ph="..." />
+                <marker date="1549750650314" expanded="true" signature="128:589" ph="{...}" />
+                <marker date="1549750650314" expanded="true" signature="168:587" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -162,35 +143,51 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="230">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
               <folding>
-                <marker date="1549686847104" expanded="false" signature="6:150" ph="..." />
-                <marker date="1549686847104" expanded="true" signature="206:824" ph="{...}" />
-                <marker date="1549686847104" expanded="true" signature="297:822" ph="{...}" />
-                <marker date="1549686847104" expanded="true" signature="516:617" ph="{...}" />
-                <marker date="1549686847104" expanded="true" signature="708:815" ph="{...}" />
+                <marker date="1549740195904" expanded="false" signature="6:150" ph="..." />
+                <marker date="1549740195904" expanded="true" signature="206:842" ph="{...}" />
+                <marker date="1549740195904" expanded="true" signature="297:840" ph="{...}" />
+                <marker date="1549740195904" expanded="true" signature="516:617" ph="{...}" />
+                <marker date="1549740195904" expanded="true" signature="720:833" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/PhotosPaginationController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+              <folding>
+                <marker date="1549751985875" expanded="true" signature="6:236" ph="..." />
+                <marker date="1549751985875" expanded="true" signature="292:968" ph="{...}" />
+                <marker date="1549751985875" expanded="true" signature="384:966" ph="{...}" />
+                <marker date="1549751985875" expanded="true" signature="622:720" ph="{...}" />
+                <marker date="1549751985875" expanded="true" signature="864:960" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+            <state relative-caret-position="-59">
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding>
-                <marker date="1549695356852" expanded="true" signature="6:526" ph="..." />
-                <marker date="1549695356852" expanded="true" signature="561:2840" ph="{...}" />
-                <marker date="1549695356852" expanded="true" signature="588:2838" ph="{...}" />
-                <marker date="1549695356852" expanded="true" signature="642:937" ph="{...}" />
-                <marker date="1549695356852" expanded="true" signature="1164:2062" ph="{...}" />
-                <marker date="1549695356852" expanded="true" signature="1301:1578" ph="{...}" />
-                <marker date="1549695356852" expanded="true" signature="2250:2832" ph="{...}" />
-                <marker date="1549695356852" expanded="true" signature="2297:2374" ph="{...}" />
-                <marker date="1549695356852" expanded="true" signature="2391:2506" ph="{...}" />
-                <marker date="1549695356852" expanded="true" signature="2649:2820" ph="{...}" />
+                <marker date="1549738262140" expanded="true" signature="6:543" ph="..." />
+                <marker date="1549738262140" expanded="true" signature="578:2782" ph="{...}" />
+                <marker date="1549738262140" expanded="true" signature="605:2780" ph="{...}" />
+                <marker date="1549738262140" expanded="true" signature="659:943" ph="{...}" />
+                <marker date="1549738262140" expanded="true" signature="1170:2004" ph="{...}" />
+                <marker date="1549738262140" expanded="true" signature="1243:1520" ph="{...}" />
+                <marker date="1549738262140" expanded="true" signature="2192:2774" ph="{...}" />
+                <marker date="1549738262140" expanded="true" signature="2239:2316" ph="{...}" />
+                <marker date="1549738262140" expanded="true" signature="2333:2448" ph="{...}" />
+                <marker date="1549738262140" expanded="true" signature="2591:2762" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -206,31 +203,37 @@
       <find>awa</find>
       <find>async</find>
       <find>IsEmotionsObjectEmpty</find>
+      <find>_photoLogic.GetAllPhotos().OrderBy(photo =&gt; photo.Faces.Fear).ToList()</find>
+      <find>GetAllPhotosWithAvailableFacesCount</find>
     </findStrings>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DE46E3C-963E-4872-8A29-95FD027553CC/6c/16f4ec57/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/PhotosPaginationController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Migrations/20190208022816_Change reletionships beetwen tables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestProject/UnitTest1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/Pagination helped classe/PhotoInformationResponse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IFacesModelLogic.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IPhotoModelLogic.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FlickerDbModel/d5h6stb0hfhccqContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/PhotoModelLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FlickerDbModel/Photo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FlickerDbModel/Faces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Shared/_ValidationScriptsPartial.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/Response.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/FaceobjectFromResponse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/AttributesFromResopnse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/EmotionsFromResponse.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Models/GetEmotion.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -255,27 +258,32 @@
         <option value="$PROJECT_DIR$/ModelLogic/HelpClasses/AttributesFromResopnse.cs" />
         <option value="$PROJECT_DIR$/ModelLogic/HelpClasses/FaceobjectFromResponse.cs" />
         <option value="$PROJECT_DIR$/ModelLogic/HelpClasses/EmotionsFromResponse.cs" />
-        <option value="$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IPhotoModelLogic.cs" />
-        <option value="$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/PhotoModelLogic.cs" />
         <option value="$PROJECT_DIR$/ModelLogic/HelpClasses/Response.cs" />
-        <option value="$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IFacesModelLogic.cs" />
-        <option value="$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs" />
         <option value="$PROJECT_DIR$/FlickerDbModel/Photo.cs" />
-        <option value="$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs" />
         <option value="$PROJECT_DIR$/OpossumsTestApplication/Startup.cs" />
+        <option value="$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs" />
+        <option value="$PROJECT_DIR$/TestProject/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/PhotoModelLogic.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IPhotoModelLogic.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/HelpClasses/Pagination helped classe/PhotoInformationResponse.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IFacesModelLogic.cs" />
+        <option value="$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/PhotosPaginationController.cs" />
+        <option value="$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -298,6 +306,13 @@
               <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
               <item name="ModelLogic" type="24d0babc:SolutionExplorerModelNode" />
               <item name="HelpClasses" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ModelLogic" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="HelpClasses" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Pagination helped classe" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
@@ -335,38 +350,11 @@
               <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Home" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
@@ -420,12 +408,13 @@
       <workItem from="1549507451959" duration="8951000" />
       <workItem from="1549556842829" duration="1480000" />
       <workItem from="1549572738796" duration="1690000" />
-      <workItem from="1549583752526" duration="41122000" />
+      <workItem from="1549583752526" duration="41831000" />
+      <workItem from="1549737843348" duration="12500000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57580000" />
+    <option name="totallyTimeSpent" value="70789000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -437,17 +426,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1536" height="864" extended-state="6" />
+    <frame x="0" y="0" width="1536" height="864" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20939597" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21946308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.2983565" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3426043" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.35777497" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48798987" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
@@ -460,7 +450,7 @@
       <window_info anchor="bottom" id="REST Client" order="13" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="14" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50067115" side_tool="true" weight="0.32743362" />
-      <window_info anchor="bottom" id="Build" order="16" sideWeight="0.49932885" weight="0.32743362" />
+      <window_info anchor="bottom" id="Build" order="16" sideWeight="0.49932885" weight="0.3261694" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -518,10 +508,10 @@
           <line>24</line>
           <properties documentPath="$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs" initialLine="23">
             <startOffsets>
-              <option value="717" />
+              <option value="729" />
             </startOffsets>
             <endOffsets>
-              <option value="718" />
+              <option value="730" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="18" />
@@ -531,13 +521,106 @@
           <line>28</line>
           <properties documentPath="$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs" initialLine="32">
             <startOffsets>
-              <option value="793" />
+              <option value="811" />
             </startOffsets>
             <endOffsets>
-              <option value="805" />
+              <option value="823" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/PhotosPaginationController.cs</url>
+          <line>23</line>
+          <properties documentPath="$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/PhotosPaginationController.cs" initialLine="21">
+            <startOffsets>
+              <option value="873" />
+            </startOffsets>
+            <endOffsets>
+              <option value="874" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs</url>
+          <line>151</line>
+          <properties documentPath="$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs" initialLine="149">
+            <startOffsets>
+              <option value="6155" />
+              <option value="6246" />
+            </startOffsets>
+            <endOffsets>
+              <option value="6600" />
+              <option value="6262" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs</url>
+          <line>161</line>
+          <properties documentPath="$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs" initialLine="151">
+            <startOffsets>
+              <option value="6621" />
+            </startOffsets>
+            <endOffsets>
+              <option value="6621" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs</url>
+          <line>164</line>
+          <properties documentPath="$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs" initialLine="164">
+            <startOffsets>
+              <option value="6665" />
+            </startOffsets>
+            <endOffsets>
+              <option value="6666" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs</url>
+          <line>165</line>
+          <properties documentPath="$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs" initialLine="165">
+            <startOffsets>
+              <option value="6683" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7134" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs</url>
+          <line>146</line>
+          <properties documentPath="$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs" initialLine="146">
+            <startOffsets>
+              <option value="5951" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5952" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs</url>
+          <line>147</line>
+          <properties documentPath="$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs" initialLine="147">
+            <startOffsets>
+              <option value="5969" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5981" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -573,26 +656,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FlickersPicturesDB/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlickersPicturesDB/FlickersPicturesDB.csproj">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassLibrary1/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlickerDbModels/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/FlickersPicturesDB/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/FlickersPicturesDB/FlickersPicturesDB.csproj" />
+    <entry file="file://$PROJECT_DIR$/ClassLibrary1/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/FlickerDbModels/Class1.cs" />
     <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/OpossumsTestApplication.csproj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -600,12 +667,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FlickerDbModel/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassLibrary1/ClassLibrary1.csproj">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/FlickerDbModel/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/ClassLibrary1/ClassLibrary1.csproj" />
     <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Migrations/20190208022816_Change reletionships beetwen tables.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -620,17 +683,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ModelLogic/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ModelLogic/IPhototModelLogic.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlickerDbModel/connection.json">
+    <entry file="file://$PROJECT_DIR$/ModelLogic/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/ModelLogic/IPhototModelLogic.cs" />
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/wwwroot/jsons/DbConnection/connection.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
@@ -675,18 +730,6 @@
         <state>
           <folding>
             <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlickerDbModel/Faces.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding>
-            <marker date="1549582915434" expanded="false" signature="6:47" ph="..." />
-            <marker date="1549582915434" expanded="true" signature="73:561" ph="{...}" />
-            <marker date="1549582915434" expanded="true" signature="106:559" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -743,125 +786,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IPhotoModelLogic.cs">
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Home/About.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           <folding>
-            <marker date="1549671559086" expanded="false" signature="6:85" ph="..." />
-            <marker date="1549671559086" expanded="true" signature="128:480" ph="{...}" />
-            <marker date="1549671559086" expanded="true" signature="168:478" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding>
-            <marker date="1549686847104" expanded="false" signature="6:150" ph="..." />
-            <marker date="1549686847104" expanded="true" signature="206:824" ph="{...}" />
-            <marker date="1549686847104" expanded="true" signature="297:822" ph="{...}" />
-            <marker date="1549686847104" expanded="true" signature="516:617" ph="{...}" />
-            <marker date="1549686847104" expanded="true" signature="708:815" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/PhotoModelLogic.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="38" selection-end-column="38" />
-          <folding>
-            <marker date="1549671559073" expanded="false" signature="6:143" ph="..." />
-            <marker date="1549671559073" expanded="true" signature="197:1233" ph="{...}" />
-            <marker date="1549671559073" expanded="true" signature="249:1231" ph="{...}" />
-            <marker date="1549671559073" expanded="true" signature="374:426" ph="{...}" />
-            <marker date="1549671559073" expanded="true" signature="718:834" ph="{...}" />
-            <marker date="1549671559073" expanded="true" signature="904:1021" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/Response.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-end-line="12" />
-          <folding>
-            <marker date="1549672995161" expanded="false" signature="6:55" ph="..." />
-            <marker date="1549672995161" expanded="true" signature="89:379" ph="{...}" />
-            <marker date="1549672995161" expanded="true" signature="117:377" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/FaceobjectFromResponse.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
-          <folding>
-            <marker date="1549651217367" expanded="true" signature="32:197" ph="{...}" />
-            <marker date="1549651217367" expanded="true" signature="74:195" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding>
-            <marker date="1549694170629" expanded="false" signature="6:287" ph="..." />
-            <marker date="1549694170629" expanded="true" signature="341:6763" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="394:6761" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="642:724" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="819:1926" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="917:1873" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="1016:1507" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="1743:1855" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="2010:4305" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="2056:4170" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="2191:3868" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="2335:2448" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="2472:2571" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="2622:3566" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="2747:3544" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="3621:3699" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="3723:3851" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="3888:4155" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="4187:4295" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="4379:5013" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="4456:5003" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="4713:4810" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="4831:4989" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="5386:5739" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="6037:6267" ph="{...}" />
-            <marker date="1549694170629" expanded="true" signature="6332:6551" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IFacesModelLogic.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <marker date="1549682694578" expanded="true" signature="6:115" ph="..." />
-            <marker date="1549682694578" expanded="true" signature="158:426" ph="{...}" />
-            <marker date="1549682694578" expanded="true" signature="198:424" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlickerDbModel/Photo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-          <folding>
-            <marker date="1549690899929" expanded="false" signature="6:47" ph="..." />
-            <marker date="1549690899929" expanded="true" signature="73:374" ph="{...}" />
-            <marker date="1549690899929" expanded="true" signature="106:372" ph="{...}" />
+            <marker date="1549512300796" expanded="true" signature="0:37" ph="@..." />
           </folding>
         </state>
       </provider>
@@ -892,31 +822,204 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Home/About.cshtml">
+    <entry file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/FaceobjectFromResponse.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
           <folding>
-            <marker date="1549512300796" expanded="true" signature="0:37" ph="@..." />
+            <marker date="1549651217367" expanded="true" signature="32:197" ph="{...}" />
+            <marker date="1549651217367" expanded="true" signature="74:195" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/Response.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="11" column="39" selection-start-line="11" selection-end-line="12" />
+          <folding>
+            <marker date="1549672995161" expanded="false" signature="6:55" ph="..." />
+            <marker date="1549672995161" expanded="true" signature="89:379" ph="{...}" />
+            <marker date="1549672995161" expanded="true" signature="117:377" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        <state relative-caret-position="-59">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding>
-            <marker date="1549695356852" expanded="true" signature="6:526" ph="..." />
-            <marker date="1549695356852" expanded="true" signature="561:2840" ph="{...}" />
-            <marker date="1549695356852" expanded="true" signature="588:2838" ph="{...}" />
-            <marker date="1549695356852" expanded="true" signature="642:937" ph="{...}" />
-            <marker date="1549695356852" expanded="true" signature="1164:2062" ph="{...}" />
-            <marker date="1549695356852" expanded="true" signature="1301:1578" ph="{...}" />
-            <marker date="1549695356852" expanded="true" signature="2250:2832" ph="{...}" />
-            <marker date="1549695356852" expanded="true" signature="2297:2374" ph="{...}" />
-            <marker date="1549695356852" expanded="true" signature="2391:2506" ph="{...}" />
-            <marker date="1549695356852" expanded="true" signature="2649:2820" ph="{...}" />
+            <marker date="1549738262140" expanded="true" signature="6:543" ph="..." />
+            <marker date="1549738262140" expanded="true" signature="578:2782" ph="{...}" />
+            <marker date="1549738262140" expanded="true" signature="605:2780" ph="{...}" />
+            <marker date="1549738262140" expanded="true" signature="659:943" ph="{...}" />
+            <marker date="1549738262140" expanded="true" signature="1170:2004" ph="{...}" />
+            <marker date="1549738262140" expanded="true" signature="1243:1520" ph="{...}" />
+            <marker date="1549738262140" expanded="true" signature="2192:2774" ph="{...}" />
+            <marker date="1549738262140" expanded="true" signature="2239:2316" ph="{...}" />
+            <marker date="1549738262140" expanded="true" signature="2333:2448" ph="{...}" />
+            <marker date="1549738262140" expanded="true" signature="2591:2762" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestProject/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="49" />
+          <folding>
+            <marker date="1549746152026" expanded="true" signature="6:86" ph="..." />
+            <marker date="1549746152026" expanded="true" signature="109:1076" ph="{...}" />
+            <marker date="1549746152026" expanded="true" signature="138:1074" ph="{...}" />
+            <marker date="1549746152026" expanded="true" signature="187:1068" ph="{...}" />
+            <marker date="1549746152026" expanded="true" signature="291:344" ph="{...}" />
+            <marker date="1549746152026" expanded="true" signature="638:840" ph="{...}" />
+            <marker date="1549746152026" expanded="true" signature="857:1058" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlickerDbModel/Faces.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <marker date="1549582915434" expanded="false" signature="6:47" ph="..." />
+            <marker date="1549582915434" expanded="true" signature="73:561" ph="{...}" />
+            <marker date="1549582915434" expanded="true" signature="106:559" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlickerDbModel/Photo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding>
+            <marker date="1549690899929" expanded="false" signature="6:47" ph="..." />
+            <marker date="1549690899929" expanded="true" signature="73:374" ph="{...}" />
+            <marker date="1549690899929" expanded="true" signature="106:372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IPhotoModelLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding>
+            <marker date="1549750650314" expanded="false" signature="6:85" ph="..." />
+            <marker date="1549750650314" expanded="true" signature="128:589" ph="{...}" />
+            <marker date="1549750650314" expanded="true" signature="168:587" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IFacesModelLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <marker date="1549751468255" expanded="true" signature="6:170" ph="..." />
+            <marker date="1549751468255" expanded="true" signature="213:579" ph="{...}" />
+            <marker date="1549751468255" expanded="true" signature="253:577" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/PhotoModelLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <marker date="1549750718398" expanded="false" signature="6:180" ph="..." />
+            <marker date="1549750718398" expanded="true" signature="234:1593" ph="{...}" />
+            <marker date="1549750718398" expanded="true" signature="286:1591" ph="{...}" />
+            <marker date="1549750718398" expanded="true" signature="411:463" ph="{...}" />
+            <marker date="1549750718398" expanded="true" signature="785:901" ph="{...}" />
+            <marker date="1549750718398" expanded="true" signature="971:1088" ph="{...}" />
+            <marker date="1549750718398" expanded="true" signature="1350:1428" ph="{...}" />
+            <marker date="1549750718398" expanded="true" signature="1493:1585" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <marker date="1549740195904" expanded="false" signature="6:150" ph="..." />
+            <marker date="1549740195904" expanded="true" signature="206:842" ph="{...}" />
+            <marker date="1549740195904" expanded="true" signature="297:840" ph="{...}" />
+            <marker date="1549740195904" expanded="true" signature="516:617" ph="{...}" />
+            <marker date="1549740195904" expanded="true" signature="720:833" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/Pagination helped classe/PhotoInformationResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <marker date="1549751485107" expanded="true" signature="57:232" ph="{...}" />
+            <marker date="1549751485107" expanded="true" signature="101:230" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/PhotosPaginationController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <marker date="1549751985875" expanded="true" signature="6:236" ph="..." />
+            <marker date="1549751985875" expanded="true" signature="292:968" ph="{...}" />
+            <marker date="1549751985875" expanded="true" signature="384:966" ph="{...}" />
+            <marker date="1549751985875" expanded="true" signature="622:720" ph="{...}" />
+            <marker date="1549751985875" expanded="true" signature="864:960" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="141" column="51" selection-start-line="141" selection-start-column="51" selection-end-line="141" selection-end-column="51" />
+          <folding>
+            <marker date="1549752372784" expanded="false" signature="6:442" ph="..." />
+            <marker date="1549752372784" expanded="true" signature="496:7740" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="550:7738" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="859:979" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="1062:2106" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="1160:2064" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="1259:1734" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="1941:2050" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="2189:4446" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="2235:4327" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="2373:4039" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="2507:2624" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="2649:2751" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="2805:3725" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="2910:3702" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="3784:3865" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="3890:4021" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="4060:4312" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="4344:4436" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="4518:5197" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="4597:5187" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="4861:4976" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="4997:5173" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="5556:7158" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="5938:5995" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="6118:6635" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="6457:6598" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="6652:7148" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="6991:7132" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="7246:7731" ph="{...}" />
+            <marker date="1549752372784" expanded="true" signature="7305:7681" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -12,5 +12,7 @@ namespace ModelLogic.ModelLogicInterfaces
         Task SetPhotoAsWithOutEnabledFaces(int photoId);
         Photo GetPhotoById(int id);
         string GetPhotoUrl(int photoId);
+        int GetAllPhotosWithAvailableFacesCount();
+        IEnumerable<Photo> GetPhotosWithAvailableFaces();
     }
 }

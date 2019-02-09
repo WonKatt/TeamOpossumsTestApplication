@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using FlickerDbModel;
+using Microsoft.EntityFrameworkCore;
 using ModelLogic.ModelLogicInterfaces;
 
 namespace ModelLogic.ModelLogicInterfacesRealization
@@ -15,12 +16,12 @@ namespace ModelLogic.ModelLogicInterfacesRealization
         }
 
         public IEnumerable<Photo> GetAllPhotos() =>
-            _context.Photo;
+            _context.Photo.Include(photo=>photo.Faces);
 
         public IEnumerable<Photo> GetPhotosWithNoInformationAboutFaces() =>
              GetAllPhotos().Where(photo => photo.IsFace == null);
 
-        public async Task SetPhotoAsWithEnabledFaces(int photoId) 
+        public  async  Task SetPhotoAsWithEnabledFaces(int photoId) 
         {
             GetPhotoById(photoId).IsFace = true;
             await _context.SaveChangesAsync();
@@ -37,5 +38,15 @@ namespace ModelLogic.ModelLogicInterfacesRealization
 
         public string GetPhotoUrl(int photoId) =>
             GetPhotoById(photoId).Url;
+
+        public int GetAllPhotosWithAvailableFacesCount()
+        {
+            return GetPhotosWithAvailableFaces().Count();
+        }
+
+        public IEnumerable<Photo> GetPhotosWithAvailableFaces()
+        {
+            return GetAllPhotos().Where(photo => photo.IsFace == true);
+        }
     }
 }
