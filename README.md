@@ -67,9 +67,9 @@ $ python get_photo_from.py
 
 ## 2-3-4.Face ++
 * бекенд написаний на С# у вигляді API
-приклад записи:
+* приклад запиту до API:
 https://opossum-gallery.herokuapp.com/api/PhotosPagination/GetAllPhotos?pageNumber=7&maxRequired=50
-* фронтенд JS
+* фронтенд JQuery
 
 ### Алгоритм для розгортання на heroku cайту 
 Крок 0. Створити додаток на Heroku. У нас назва opossum-gallery
