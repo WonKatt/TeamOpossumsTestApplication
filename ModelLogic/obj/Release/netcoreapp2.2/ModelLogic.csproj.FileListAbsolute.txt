@@ -1,0 +1,14 @@
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\ModelLogic\bin\Release\netcoreapp2.2\ModelLogic.deps.json
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\ModelLogic\bin\Release\netcoreapp2.2\ModelLogic.dll
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\ModelLogic\bin\Release\netcoreapp2.2\ModelLogic.pdb
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\ModelLogic\bin\Release\netcoreapp2.2\FlickerDbModel.dll
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\ModelLogic\bin\Release\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\ModelLogic\bin\Release\netcoreapp2.2\FlickerDbModel.pdb
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\ModelLogic\bin\Release\netcoreapp2.2\Newtonsoft.Json.xml
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\ModelLogic\obj\Release\netcoreapp2.2\ModelLogic.csprojAssemblyReference.cache
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\ModelLogic\obj\Release\netcoreapp2.2\ModelLogic.csproj.CoreCompileInputs.cache
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\ModelLogic\obj\Release\netcoreapp2.2\ModelLogic.AssemblyInfoInputs.cache
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\ModelLogic\obj\Release\netcoreapp2.2\ModelLogic.AssemblyInfo.cs
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\ModelLogic\obj\Release\netcoreapp2.2\ModelLogic.csproj.CopyComplete
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\ModelLogic\obj\Release\netcoreapp2.2\ModelLogic.dll
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\ModelLogic\obj\Release\netcoreapp2.2\ModelLogic.pdb

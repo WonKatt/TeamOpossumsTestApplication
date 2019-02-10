@@ -1,12 +1,15 @@
 using System;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using ModelLogic.ModelLogicInterfaces;
 
 namespace OpossumsTestApplication.Controllers.REST_API
 {
+    
     [Route("api/[controller]")]
+    [EnableCors("AllowSpecificOrigins")]
     public class DbUpdateTriggersController : Controller
     {
         private readonly ILogger _logger;

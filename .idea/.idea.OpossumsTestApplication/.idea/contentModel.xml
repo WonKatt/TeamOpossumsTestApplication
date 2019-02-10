@@ -13,7 +13,7 @@
         <e p="Faces.cs" t="Include" />
         <e p="FlickerDbModel.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netcoreapp2.2" t="Include">
               <e p="FlickerDbModel.AssemblyInfo.cs" t="Include" />
             </e>
@@ -42,7 +42,7 @@
           <e p="PhotoModelLogic.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netcoreapp2.2" t="Include">
               <e p="ModelLogic.AssemblyInfo.cs" t="Include" />
             </e>
@@ -54,7 +54,6 @@
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
-          <e p="HomeController.cs" t="Include" />
           <e p="REST API" t="Include">
             <e p="DbUpdateTriggersController.cs" t="Include" />
             <e p="PhotosPaginationController.cs" t="Include" />
@@ -73,7 +72,7 @@
           <e p="ErrorViewModel.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netcoreapp2.2" t="Include">
               <e p="OpossumsTestApplication.AssemblyInfo.cs" t="Include" />
             </e>
@@ -85,22 +84,6 @@
           <e p="launchSettings.json" t="Include" />
         </e>
         <e p="Startup.cs" t="Include" />
-        <e p="Views" t="Include">
-          <e p="_ViewImports.cshtml" t="Include" />
-          <e p="_ViewStart.cshtml" t="Include" />
-          <e p="Home" t="Include">
-            <e p="About.cshtml" t="Include" />
-            <e p="Contact.cshtml" t="Include" />
-            <e p="Index.cshtml" t="Include" />
-            <e p="Privacy.cshtml" t="Include" />
-          </e>
-          <e p="Shared" t="Include">
-            <e p="_CookieConsentPartial.cshtml" t="Include" />
-            <e p="_Layout.cshtml" t="Include" />
-            <e p="_ValidationScriptsPartial.cshtml" t="Include" />
-            <e p="Error.cshtml" t="Include" />
-          </e>
-        </e>
         <e p="wwwroot" t="Include">
           <e p="css" t="Include">
             <e p="site.css" t="Include" />

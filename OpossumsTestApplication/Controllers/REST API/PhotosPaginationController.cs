@@ -1,6 +1,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using FlickerDbModel;
+using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Cors.Infrastructure;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using ModelLogic.HelpClasses.Pagination_helped_classe;
@@ -9,6 +11,7 @@ using ModelLogic.ModelLogicInterfaces;
 namespace OpossumsTestApplication.Controllers.REST_API
 {
     [Route("/api/[controller]")]
+    [EnableCors("AllowSpecificOrigins")]
     public class PhotosPaginationController : Controller
     {
         private  readonly ILogger _logger;

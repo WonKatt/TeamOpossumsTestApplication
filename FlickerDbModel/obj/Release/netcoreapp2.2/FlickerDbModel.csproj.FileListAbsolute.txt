@@ -1,0 +1,11 @@
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\FlickerDbModel\bin\Release\netcoreapp2.2\FlickerDbModel.deps.json
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\FlickerDbModel\bin\Release\netcoreapp2.2\FlickerDbModel.runtimeconfig.json
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\FlickerDbModel\bin\Release\netcoreapp2.2\FlickerDbModel.runtimeconfig.dev.json
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\FlickerDbModel\bin\Release\netcoreapp2.2\FlickerDbModel.dll
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\FlickerDbModel\bin\Release\netcoreapp2.2\FlickerDbModel.pdb
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\FlickerDbModel\obj\Release\netcoreapp2.2\FlickerDbModel.csprojAssemblyReference.cache
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\FlickerDbModel\obj\Release\netcoreapp2.2\FlickerDbModel.csproj.CoreCompileInputs.cache
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\FlickerDbModel\obj\Release\netcoreapp2.2\FlickerDbModel.AssemblyInfoInputs.cache
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\FlickerDbModel\obj\Release\netcoreapp2.2\FlickerDbModel.AssemblyInfo.cs
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\FlickerDbModel\obj\Release\netcoreapp2.2\FlickerDbModel.dll
+C:\Users\WonKat\RiderProjects\OpossumsTestApplication\FlickerDbModel\obj\Release\netcoreapp2.2\FlickerDbModel.pdb
