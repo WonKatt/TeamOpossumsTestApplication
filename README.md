@@ -1,5 +1,6 @@
 # TeamOpossums. Наш проект і як його запустити 😎
 
+Сайт : https://opossums-random-gallery.herokuapp.com/index.html
 
 ## База даних
 
@@ -78,25 +79,26 @@ $ python get_photo_from.py
 dotnet publish -c Release
 ```
   
-2. Відкриваємо консоль DOСKER .
+
+Крок 2. Відкриваємо консоль DOСKER .
    Виконуємо вхід у heroku
 ```console 
  heroku container:login
  ```
   
-3. Далі скопіювати dockerfile в publish папку
+Крок 3. Далі скопіювати dockerfile в publish папку
 ```console 
 docker build -t opossum-gallery C:\\Projects\\opossums-app\\OpossumsTestApplication\\bin\\Release\\netcoreapp2.2\\publish
  ```
-4. 
+Крок 4. 
 ```console 
 docker tag opossum-gallery registry.heroku.com/opossum-gallery/web
  ```
-5. 
+Крок 5. 
  ```
 docker push registry.heroku.com/opossum-gallery/web
  ```
-6. 
+Крок 6. 
  ```
 heroku container:release web  --app opossum-gallery
  ```
@@ -107,5 +109,5 @@ heroku container:release web  --app opossum-gallery
 Віримо в найкраще
 Заливаємо в останні хвилини до дедлайну  😀😀😀
 
-Команда Opossums @heletrix @lizaviet @wonkat
+Команда Opossums @heletrix @lizaviet @wonkat 🎉
 
