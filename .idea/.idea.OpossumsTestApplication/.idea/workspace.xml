@@ -96,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding>
                 <marker date="1549813737842" expanded="false" signature="6:183" ph="..." />
                 <marker date="1549813737842" expanded="true" signature="239:921" ph="{...}" />
@@ -128,20 +128,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+            <state relative-caret-position="210">
+              <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
               <folding>
-                <marker date="1549814853935" expanded="false" signature="6:543" ph="..." />
-                <marker date="1549814853935" expanded="true" signature="578:3134" ph="{...}" />
-                <marker date="1549814853935" expanded="true" signature="605:3132" ph="{...}" />
-                <marker date="1549814853935" expanded="true" signature="659:943" ph="{...}" />
-                <marker date="1549814853935" expanded="true" signature="1170:2321" ph="{...}" />
-                <marker date="1549814853935" expanded="true" signature="1289:1494" ph="{...}" />
-                <marker date="1549814853935" expanded="true" signature="1560:1837" ph="{...}" />
-                <marker date="1549814853935" expanded="true" signature="2509:3126" ph="{...}" />
-                <marker date="1549814853935" expanded="true" signature="2556:2633" ph="{...}" />
-                <marker date="1549814853935" expanded="true" signature="2650:2751" ph="{...}" />
-                <marker date="1549814853935" expanded="true" signature="2943:3114" ph="{...}" />
+                <marker date="1549817672239" expanded="false" signature="6:543" ph="..." />
+                <marker date="1549817672239" expanded="true" signature="578:3210" ph="{...}" />
+                <marker date="1549817672239" expanded="true" signature="605:3208" ph="{...}" />
+                <marker date="1549817672239" expanded="true" signature="659:943" ph="{...}" />
+                <marker date="1549817672239" expanded="true" signature="1170:2397" ph="{...}" />
+                <marker date="1549817672239" expanded="true" signature="1289:1570" ph="{...}" />
+                <marker date="1549817672239" expanded="true" signature="1636:1913" ph="{...}" />
+                <marker date="1549817672239" expanded="true" signature="2585:3202" ph="{...}" />
+                <marker date="1549817672239" expanded="true" signature="2632:2709" ph="{...}" />
+                <marker date="1549817672239" expanded="true" signature="2726:2827" ph="{...}" />
+                <marker date="1549817672239" expanded="true" signature="3019:3190" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -150,7 +150,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Models/ErrorViewModel.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="45">
               <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               <folding>
                 <marker date="1549512300901" expanded="true" signature="55:221" ph="{...}" />
@@ -175,25 +175,25 @@
     </findStrings>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DE46E3C-963E-4872-8A29-95FD027553CC/6c/16f4ec57/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/PhotosPaginationController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Migrations/20190208022816_Change reletionships beetwen tables.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestProject/UnitTest1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/Pagination helped classe/PhotoInformationResponse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IFacesModelLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DE46E3C-963E-4872-8A29-95FD027553CC/6c/16f4ec57/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfaces/IPhotoModelLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/PhotosPaginationController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/FacesModelLogic.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FlickerDbModel/d5h6stb0hfhccqContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/ModelLogicInterfacesRealization/PhotoModelLogic.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FlickerDbModel/Photo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Migrations/20190208022816_Change reletionships beetwen tables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FlickerDbModel/Faces.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestProject/UnitTest1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/Response.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/FaceobjectFromResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/AttributesFromResopnse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/EmotionsFromResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModelLogic/HelpClasses/Pagination helped classe/PhotoInformationResponse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -235,8 +235,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -244,50 +244,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="REST API" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Migrations" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="OpossumsTestApplication" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,11 +304,12 @@
       <workItem from="1549583752526" duration="41831000" />
       <workItem from="1549737843348" duration="23293000" />
       <workItem from="1549813147378" duration="1937000" />
+      <workItem from="1549817597921" duration="75000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83519000" />
+    <option name="totallyTimeSpent" value="83594000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -359,9 +321,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1551" height="839" extended-state="0" />
+    <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22266935" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22587131" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -528,42 +491,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Models/GetEmotion.cs" />
-    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Home/About.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding>
-            <marker date="1549512300796" expanded="true" signature="0:37" ph="@..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Shared/_Layout.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-          <folding>
-            <marker date="1549512300847" expanded="true" signature="16:3405" ph="&lt;html.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="23:857" ph="&lt;head.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="205:395" ph="&lt;environment.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="400:849" ph="&lt;environment.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="858:3397" ph="&lt;body.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="869:1944" ph="&lt;nav.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="930:1933" ph="&lt;div.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="966:1494" ph="&lt;div.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="1010:1354" ph="&lt;button.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="1507:1918" ph="&lt;div.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="1562:1899" ph="&lt;ul.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="1996:2172" ph="&lt;div.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="2078:2161" ph="&lt;footer.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="2178:2432" ph="&lt;environment.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="2437:3341" ph="&lt;environment.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="2481:2829" ph="&lt;script.../&gt;" />
-            <marker date="1549512300847" expanded="true" signature="2838:3247" ph="&lt;script.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Home/About.cshtml" />
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Views/Shared/_Layout.cshtml" />
     <entry file="file://$PROJECT_DIR$/TestProject/UnitTest1.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -709,7 +638,6 @@
         <state relative-caret-position="30">
           <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
           <folding>
-            <marker date="1549751485107" expanded="true" signature="57:232" ph="{...}" />
             <marker date="1549751485107" expanded="true" signature="101:230" ph="{...}" />
           </folding>
         </state>
@@ -732,7 +660,6 @@
         <state relative-caret-position="30">
           <caret line="6" column="29" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="29" />
           <folding>
-            <marker date="1549663979082" expanded="true" signature="32:400" ph="{...}" />
             <marker date="1549663979082" expanded="true" signature="72:398" ph="{...}" />
           </folding>
         </state>
@@ -744,7 +671,6 @@
           <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
           <folding>
             <marker date="1549764844369" expanded="false" signature="6:184" ph="..." />
-            <marker date="1549764844369" expanded="true" signature="227:551" ph="{...}" />
             <marker date="1549764844369" expanded="true" signature="267:545" ph="{...}" />
           </folding>
         </state>
@@ -756,34 +682,7 @@
           <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
           <folding>
             <marker date="1549762405566" expanded="false" signature="6:140" ph="..." />
-            <marker date="1549762405566" expanded="true" signature="183:1056" ph="{...}" />
             <marker date="1549762405566" expanded="true" signature="223:1054" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Models/ErrorViewModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding>
-            <marker date="1549512300901" expanded="true" signature="55:221" ph="{...}" />
-            <marker date="1549512300901" expanded="true" signature="89:219" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/PhotosPaginationController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-          <folding>
-            <marker date="1549813760537" expanded="false" signature="6:317" ph="..." />
-            <marker date="1549813760537" expanded="true" signature="373:2128" ph="{...}" />
-            <marker date="1549813760537" expanded="true" signature="506:2126" ph="{...}" />
-            <marker date="1549813760537" expanded="true" signature="842:988" ph="{...}" />
-            <marker date="1549813760537" expanded="true" signature="1350:1762" ph="{...}" />
-            <marker date="1549813760537" expanded="true" signature="1996:2120" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -791,7 +690,7 @@
     <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/DbUpdateTriggersController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding>
             <marker date="1549813737842" expanded="false" signature="6:183" ph="..." />
             <marker date="1549813737842" expanded="true" signature="239:921" ph="{...}" />
@@ -802,22 +701,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Controllers/REST API/PhotosPaginationController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding>
+            <marker date="1549813760537" expanded="false" signature="6:317" ph="..." />
+            <marker date="1549813760537" expanded="true" signature="506:2126" ph="{...}" />
+            <marker date="1549813760537" expanded="true" signature="842:988" ph="{...}" />
+            <marker date="1549813760537" expanded="true" signature="1350:1762" ph="{...}" />
+            <marker date="1549813760537" expanded="true" signature="1996:2120" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1549512300901" expanded="true" signature="55:221" ph="{...}" />
+            <marker date="1549512300901" expanded="true" signature="89:219" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+        <state relative-caret-position="210">
+          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
           <folding>
-            <marker date="1549814853935" expanded="false" signature="6:543" ph="..." />
-            <marker date="1549814853935" expanded="true" signature="578:3134" ph="{...}" />
-            <marker date="1549814853935" expanded="true" signature="605:3132" ph="{...}" />
-            <marker date="1549814853935" expanded="true" signature="659:943" ph="{...}" />
-            <marker date="1549814853935" expanded="true" signature="1170:2321" ph="{...}" />
-            <marker date="1549814853935" expanded="true" signature="1289:1494" ph="{...}" />
-            <marker date="1549814853935" expanded="true" signature="1560:1837" ph="{...}" />
-            <marker date="1549814853935" expanded="true" signature="2509:3126" ph="{...}" />
-            <marker date="1549814853935" expanded="true" signature="2556:2633" ph="{...}" />
-            <marker date="1549814853935" expanded="true" signature="2650:2751" ph="{...}" />
-            <marker date="1549814853935" expanded="true" signature="2943:3114" ph="{...}" />
+            <marker date="1549817672239" expanded="false" signature="6:543" ph="..." />
+            <marker date="1549817672239" expanded="true" signature="578:3210" ph="{...}" />
+            <marker date="1549817672239" expanded="true" signature="605:3208" ph="{...}" />
+            <marker date="1549817672239" expanded="true" signature="659:943" ph="{...}" />
+            <marker date="1549817672239" expanded="true" signature="1170:2397" ph="{...}" />
+            <marker date="1549817672239" expanded="true" signature="1289:1570" ph="{...}" />
+            <marker date="1549817672239" expanded="true" signature="1636:1913" ph="{...}" />
+            <marker date="1549817672239" expanded="true" signature="2585:3202" ph="{...}" />
+            <marker date="1549817672239" expanded="true" signature="2632:2709" ph="{...}" />
+            <marker date="1549817672239" expanded="true" signature="2726:2827" ph="{...}" />
+            <marker date="1549817672239" expanded="true" signature="3019:3190" ph="{...}" />
           </folding>
         </state>
       </provider>

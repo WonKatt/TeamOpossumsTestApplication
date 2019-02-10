@@ -36,7 +36,9 @@ namespace OpossumsTestApplication
                 {
                     builder.SetIsOriginAllowedToAllowWildcardSubdomains()
                         .AllowAnyHeader()
-                        .AllowCredentials().Build();
+                        .AllowCredentials()
+                        .AllowAnyOrigin()
+                        .AllowAnyMethod();
                 }));
             services.Configure<CookiePolicyOptions>(options =>
             {
