@@ -1,4 +1,4 @@
-# TeamOpossums. Наш проект і як його запустити 😎
+# TeamOpossums. Наш проект і як його запустити
 
 Сайт : https://opossums-random-gallery.herokuapp.com/index.html
 
