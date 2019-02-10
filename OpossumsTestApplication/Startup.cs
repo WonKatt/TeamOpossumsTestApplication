@@ -36,7 +36,7 @@ namespace OpossumsTestApplication
                 {
                     builder.SetIsOriginAllowedToAllowWildcardSubdomains()
                         .AllowAnyHeader()
-                        .AllowCredentials();
+                        .AllowCredentials().Build();
                 }));
             services.Configure<CookiePolicyOptions>(options =>
             {
@@ -61,7 +61,7 @@ namespace OpossumsTestApplication
             }
             else
             {
-                app.UseExceptionHandler("/Home/Error");
+                app.UseStatusCodePages();
                 app.UseHsts();
             }
 
