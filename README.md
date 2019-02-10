@@ -66,7 +66,9 @@ $ python get_photo_from.py
 ```
 
 ## 2-3-4.Face ++
-* бекенд написаний на С#
+* бекенд написаний на С# у вигляді API
+приклад записи:
+https://opossum-gallery.herokuapp.com/api/PhotosPagination/GetAllPhotos?pageNumber=7&maxRequired=50
 * фронтенд JS
 
 ### Алгоритм для розгортання на heroku cайту 
@@ -79,9 +81,10 @@ dotnet publish -c Release
 ```
   
 
-Крок 2. Відкриваємо консоль DOСKER .
+Крок 2. Відкриваємо консоль DOСKER.  
    Виконуємо вхід у heroku
 ```console 
+ docker ps
  heroku container:login
  ```
   
@@ -89,7 +92,7 @@ dotnet publish -c Release
 ```console 
 docker build -t opossum-gallery C:\\Projects\\opossums-app\\OpossumsTestApplication\\bin\\Release\\netcoreapp2.2\\publish
  ```
-Крок 4. 
+Крок 4.  
 ```console 
 docker tag opossum-gallery registry.heroku.com/opossum-gallery/web
  ```
