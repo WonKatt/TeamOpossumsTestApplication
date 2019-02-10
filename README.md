@@ -6,8 +6,10 @@
 * база даних PostgreSQL.
 
 * розгорнута на сайті heroku і має таку структуру:
+https://imgur.com/a/KBmZuee
 
-
+Faces - містить записи  з про емоцій у кількісному співвідношенні на обличчі з фото
+Photo - записує фото за тегом та з заданої папки.
 
 
 SQL- скрипт для створення таблиць в базі даних
@@ -62,3 +64,42 @@ $ source venv/bin/activate
 $ python get_photo_from.py
 
 ```
+
+## 2-3-4.Face ++
+* бекенд написаний на С#
+* фронтенд JS
+
+###Алгоритм для розгортання на heroku cайту 
+Крок 0. Створити додаток на Heroku. В нас назва opossum-gallery
+
+Крок 1. Створюємо реліз. 
+Команда в консолі Windows в корені проекту: 
+```console
+dotnet publish -c Release
+```
+  
+2. Відкриваємо консоль DOСKER .
+   Виконуємо вхід у heroku
+```console 
+ heroku container:login
+ ```
+  
+3. Далі скопіювати dockerfile в publish папку
+```console 
+docker build -t opossum-gallery C:\\Projects\\opossums-app\\OpossumsTestApplication\\bin\\Release\\netcoreapp2.2\\publish
+ ```
+4. 
+```console 
+docker tag opossum-gallery registry.heroku.com/opossum-gallery/web
+ ```
+5. 
+ ```
+docker push registry.heroku.com/opossum-gallery/web
+ ```
+6. 
+ ```
+heroku container:release web  --app opossum-gallery
+ ```
+
+
+Сайт : https://opossums-random-gallery.herokuapp.com/index.html
