@@ -58,6 +58,15 @@ WITH (
 
 (краще поміняти конфіги до бд або очистити нашу бд, налаштування до якої в скрипті)
 
+```python
+# credetianls for postgreSQL bd on heroku 
+hostname = [your hostname]
+username = [your username]
+password = [your password]
+database = [your database]
+
+```
+Запуск скрипту:
 ```console
 $ cd script
 $ source venv/bin/activate
