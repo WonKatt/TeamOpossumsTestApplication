@@ -24,7 +24,7 @@ namespace OpossumsTestApplication.Controllers.REST_API
         public async Task<IActionResult> FacesDbUpdate()
         {
 
-            await _facesLogic.FindFacesOnAllPhotos();
+            await _facesLogic.FindFacesOnNewPhotos();
             
             return Ok();
         } 

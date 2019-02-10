@@ -29,9 +29,6 @@ namespace ModelLogic.ModelLogicInterfacesRealization
             _context = context;
             _logger = logger;
         }
-
-
-
         public static async Task<string> GetJsonSchemaResponse(string imageUrl)
         {
             string jsonSchema;
@@ -137,48 +134,13 @@ namespace ModelLogic.ModelLogicInterfacesRealization
         public async Task FindFacesOnAllPhotos() =>
             await FindFacesOnPhotos(_photoLogic.GetAllPhotos());
 
-        public IEnumerable<PhotoInformationResponse> GetTopFearPaginationPhotos(int pageNumber)
-        {
-            int maxRequiredPhotosForPagination = 50;
-            int paginationIndex = (pageNumber - 1) * maxRequiredPhotosForPagination;
-            int remainingPhotosForPagination = _photoLogic.GetAllPhotosWithAvailableFacesCount() - paginationIndex;
-            
-            if (paginationIndex >= _photoLogic.GetAllPhotosWithAvailableFacesCount() || pageNumber <= 0)
-            {
-                return null;
-            }
-            else if (paginationIndex + maxRequiredPhotosForPagination > _photoLogic.GetAllPhotosWithAvailableFacesCount())
-            {
-                return _photoLogic.GetPhotosWithAvailableFaces()
-                    .OrderByDescending(photo => photo.Faces.Fear)
-                    .ToList()
-                    .GetRange(paginationIndex, remainingPhotosForPagination )
-                    .Select(photo=> new PhotoInformationResponse
-                    {
-                        Id=photo.Id,
-                        Title=photo.Title,
-                        Url=photo.Url
-                    });
-                    
-            }
-            else
-            {
-                return _photoLogic.GetPhotosWithAvailableFaces()
-                    .OrderByDescending(photo => photo.Faces.Fear)
-                    .ToList()
-                    .GetRange(paginationIndex,maxRequiredPhotosForPagination)
-                    .Select(photo=> new PhotoInformationResponse
-                    {
-                        Id=photo.Id,
-                        Title=photo.Title,
-                        Url=photo.Url
-                    });
-            }
-        }
-
-        public void AddFaceEmotionsOnPhoto(int photoId, EmotionsFromResponse emotions)
-        {
-            var faces = new Faces()
+        public bool IsEmotionParamIsLegit(string emotion) =>
+            emotion == "Fear" || emotion == "Sadness" || emotion == "Neutral"
+            || emotion == "Disgust" || emotion == "Anger" || emotion == "Surprise"
+            || emotion == "Happiness";
+        
+        public void AddFaceEmotionsOnPhoto(int photoId, EmotionsFromResponse emotions) =>        
+            _context.Faces.Add(new Faces()
             {
                 Surprise = emotions.Surprise,
                 Anger = emotions.Anger,
@@ -187,10 +149,7 @@ namespace ModelLogic.ModelLogicInterfacesRealization
                 Happiness = emotions.Happiness,
                 Neutral = emotions.Neutral,
                 Sadness = emotions.Sadness,
-                Photo= _photoLogic.GetPhotoById(photoId)
-            };
-            _context.Faces.Add(faces);
-        }
-
+                PhotoId=photoId
+            });
     }
 }

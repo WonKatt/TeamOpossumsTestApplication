@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using FlickerDbModel;
@@ -12,7 +13,6 @@ namespace ModelLogic.ModelLogicInterfaces
         void AddFaceEmotionsOnPhoto(int photoId, EmotionsFromResponse emotions);
         Task FindFacesOnNewPhotos();
         Task FindFacesOnAllPhotos();
-        IEnumerable<PhotoInformationResponse> GetTopFearPaginationPhotos(int pageNumber);
-       
-    }
+        bool IsEmotionParamIsLegit(string emotion);
+    }    
 }

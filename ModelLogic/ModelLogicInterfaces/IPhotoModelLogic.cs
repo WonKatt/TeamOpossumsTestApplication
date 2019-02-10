@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using FlickerDbModel;
+using ModelLogic.HelpClasses.Pagination_helped_classe;
 
 namespace ModelLogic.ModelLogicInterfaces
 {
@@ -13,6 +14,13 @@ namespace ModelLogic.ModelLogicInterfaces
         Photo GetPhotoById(int id);
         string GetPhotoUrl(int photoId);
         int GetAllPhotosWithAvailableFacesCount();
+        IEnumerable<Photo> GetAllPhotosWithMoreThan50percAvailableEmotions( string emotion);
         IEnumerable<Photo> GetPhotosWithAvailableFaces();
+        IEnumerable<PhotoInformationResponse> GetTopEmotionsPaginationPhotos(int pageNumber, string emotion,
+            int maxRequired);
+        IEnumerable<PhotoInformationResponse> GetPhotosPagination(int pageNumber, int maxRequired);
+        double GetValueBySpecificEmotion(Faces emotions, string emotionName);
+
+
     }
 }
