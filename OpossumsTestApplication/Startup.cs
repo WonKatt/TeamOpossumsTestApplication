@@ -20,7 +20,9 @@ namespace OpossumsTestApplication
         public Startup(IHostingEnvironment env)
         {
             Configuration = new ConfigurationBuilder()
-                .SetBasePath(env.ContentRootPath)                
+                .SetBasePath(env.ContentRootPath)
+                .AddJsonFile(
+                    Directory.GetCurrentDirectory()+"/wwwroot/jsons/DbConnection/connection.json")
                 .Build();
         }
 
@@ -47,12 +49,7 @@ namespace OpossumsTestApplication
             services.AddTransient<IFacesModelLogic,FacesModelLogic>();
             services.AddTransient<IPhotoModelLogic,PhotoModelLogic>();
             services.AddDbContextPool<d5h6stb0hfhccqContext>(
-                    options => options.UseNpgsql( "Host=ec2-79-125-6-250.eu-west-1.compute.amazonaws.com;" +
-                                                  "Port=5432;Database=d5h6stb0hfhccq;" +
-                                                  "Username=txnxharkyeqvfl;" +
-                                                  "Password=7f6a0ea2bcff69e8471a1c04b15452120bcdf63fa2d4acaffaf2a216a787d3b1;" +
-                                                  "SslMode=Require;" +
-                                                  "TrustServerCertificate=true;UseSslStream=true;",
+                    options => options.UseNpgsql(Configuration["Connection:DefaultConnection"],
                      conf => conf.MigrationsAssembly("OpossumsTestApplication")));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }

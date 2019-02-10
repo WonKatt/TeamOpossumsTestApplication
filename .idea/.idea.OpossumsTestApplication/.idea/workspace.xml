@@ -64,20 +64,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+            <state relative-caret-position="-165">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding>
-                <marker date="1549832806488" expanded="false" signature="6:543" ph="..." />
-                <marker date="1549832806488" expanded="true" signature="578:3574" ph="{...}" />
-                <marker date="1549832806488" expanded="true" signature="605:3572" ph="{...}" />
-                <marker date="1549832806488" expanded="true" signature="659:826" ph="{...}" />
-                <marker date="1549832806488" expanded="true" signature="1053:2761" ph="{...}" />
-                <marker date="1549832806488" expanded="true" signature="1172:1453" ph="{...}" />
-                <marker date="1549832806488" expanded="true" signature="1519:1796" ph="{...}" />
-                <marker date="1549832806488" expanded="true" signature="2949:3566" ph="{...}" />
-                <marker date="1549832806488" expanded="true" signature="2996:3073" ph="{...}" />
-                <marker date="1549832806488" expanded="true" signature="3090:3191" ph="{...}" />
-                <marker date="1549832806488" expanded="true" signature="3383:3554" ph="{...}" />
+                <marker date="1549833852724" expanded="false" signature="6:543" ph="..." />
+                <marker date="1549833852724" expanded="true" signature="578:3206" ph="{...}" />
+                <marker date="1549833852724" expanded="true" signature="605:3204" ph="{...}" />
+                <marker date="1549833852724" expanded="true" signature="659:939" ph="{...}" />
+                <marker date="1549833852724" expanded="true" signature="1166:2393" ph="{...}" />
+                <marker date="1549833852724" expanded="true" signature="1285:1566" ph="{...}" />
+                <marker date="1549833852724" expanded="true" signature="1632:1909" ph="{...}" />
+                <marker date="1549833852724" expanded="true" signature="2581:3198" ph="{...}" />
+                <marker date="1549833852724" expanded="true" signature="2628:2705" ph="{...}" />
+                <marker date="1549833852724" expanded="true" signature="2722:2823" ph="{...}" />
+                <marker date="1549833852724" expanded="true" signature="3015:3186" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -377,12 +377,12 @@
       <workItem from="1549737843348" duration="23293000" />
       <workItem from="1549813147378" duration="1937000" />
       <workItem from="1549817597921" duration="1391000" />
-      <workItem from="1549832410071" duration="430000" />
+      <workItem from="1549832410071" duration="1179000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85340000" />
+    <option name="totallyTimeSpent" value="86089000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -848,20 +848,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OpossumsTestApplication/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+        <state relative-caret-position="-165">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding>
-            <marker date="1549832806488" expanded="false" signature="6:543" ph="..." />
-            <marker date="1549832806488" expanded="true" signature="578:3574" ph="{...}" />
-            <marker date="1549832806488" expanded="true" signature="605:3572" ph="{...}" />
-            <marker date="1549832806488" expanded="true" signature="659:826" ph="{...}" />
-            <marker date="1549832806488" expanded="true" signature="1053:2761" ph="{...}" />
-            <marker date="1549832806488" expanded="true" signature="1172:1453" ph="{...}" />
-            <marker date="1549832806488" expanded="true" signature="1519:1796" ph="{...}" />
-            <marker date="1549832806488" expanded="true" signature="2949:3566" ph="{...}" />
-            <marker date="1549832806488" expanded="true" signature="2996:3073" ph="{...}" />
-            <marker date="1549832806488" expanded="true" signature="3090:3191" ph="{...}" />
-            <marker date="1549832806488" expanded="true" signature="3383:3554" ph="{...}" />
+            <marker date="1549833852724" expanded="false" signature="6:543" ph="..." />
+            <marker date="1549833852724" expanded="true" signature="578:3206" ph="{...}" />
+            <marker date="1549833852724" expanded="true" signature="605:3204" ph="{...}" />
+            <marker date="1549833852724" expanded="true" signature="659:939" ph="{...}" />
+            <marker date="1549833852724" expanded="true" signature="1166:2393" ph="{...}" />
+            <marker date="1549833852724" expanded="true" signature="1285:1566" ph="{...}" />
+            <marker date="1549833852724" expanded="true" signature="1632:1909" ph="{...}" />
+            <marker date="1549833852724" expanded="true" signature="2581:3198" ph="{...}" />
+            <marker date="1549833852724" expanded="true" signature="2628:2705" ph="{...}" />
+            <marker date="1549833852724" expanded="true" signature="2722:2823" ph="{...}" />
+            <marker date="1549833852724" expanded="true" signature="3015:3186" ph="{...}" />
           </folding>
         </state>
       </provider>
