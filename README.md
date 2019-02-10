@@ -103,3 +103,9 @@ heroku container:release web  --app opossum-gallery
 
 
 Сайт : https://opossums-random-gallery.herokuapp.com/index.html
+
+Віримо в найкраще
+Заливаємо в останні хвилини до дедлайну  😀😀😀
+
+Команда Opossums @heletrix @lizaviet @wonkat
+
