@@ -84,7 +84,7 @@ https://opossum-gallery.herokuapp.com/api/PhotosPagination/GetAllPhotos?pageNumb
 
 ### Інструкція з розгортання API (проекту ASP .NET Core) на хмарному сервісі Heroku з використанням Docker:
 
-**Крок 0. Prerequisites: **
+**Крок 0. Prerequisites:**
 
 - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 - [Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/)
