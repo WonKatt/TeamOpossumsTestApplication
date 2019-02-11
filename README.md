@@ -15,7 +15,10 @@
 - БД складається з двох таблиць:
     - Photo - містить фото з flickr (за тегом та з заданої папки) та ознаку наявності обличчя на фото;
     - Faces - містить максимальні значення емоцій з облич на фото (обмеження face++ - до 5 облич).
-- Схема БД: https://imgur.com/a/KBmZuee;
+- Схема БД:
+
+![alt text](https://i.imgur.com/5Qh3BQm.jpg)
+
 - БД розгорнуто на Heroku. Інструкція з розгортання БД PostgreSQL та налаштування підключення до неї з PgAdmin4: [Getting Started with Heroku, Postgres and PgAdmin](https://medium.com/@vapurrmaid/getting-started-with-heroku-postgres-and-pgadmin-run-on-part-2-90d9499ed8fb).
 - Для створення таблиць в БД, запустити SQL-скрипт:
 ```SQL
