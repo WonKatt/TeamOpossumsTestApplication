@@ -79,6 +79,7 @@ $ source venv/bin/activate
 $ python get_photo_from.py
 
 ```
+3. Потрібно викликати метод оновлення таблиці емоцій для завантажених фото запитом API. Посилання для виконання запиту, наведено після інструкції з розгортання API.
 
 ## Завдання 2-4.Face ++
 * Backend: API написано на С# (ASP .NET Core + EF Core). Приклад запиту до API:
@@ -131,6 +132,8 @@ CMD ASPNETCORE_URLS=http://*:$PORT dotnet OpossumsTestApplication.dll
 **Крок 11.** Впевнитися, що API розгорнуто:
 https://opossum-gallery.herokuapp.com/api/PhotosPagination/GetAllPhotos?pageNumber=7&maxRequired=50 
 Якщо виникли помилки, подивитися логи.
+Щоб оновити дані про обличчя та емоції на них (Наприклад, для нових фотографій у БД після запуску скрипта), потрібно перейти за посиланням: 
+https://opossum-gallery.herokuapp.com/api/dbupdatetriggers/facesdb
 
 **Корисні посилання:**
 1. [Deploy Asp.Net Core Website on Heroku using Docker](https://www.youtube.com/watch?v=gQMT4al2Grg&app=desktop)
