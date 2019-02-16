@@ -23,6 +23,10 @@
       </e>
       <e p="ModelLogic" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Face++ API requests" t="Include">
+          <e p="ApiRequest.cs" t="Include" />
+          <e p="IApiRequest.cs" t="Include" />
+        </e>
         <e p="HelpClasses" t="Include">
           <e p="AttributesFromResopnse.cs" t="Include" />
           <e p="EmotionsFromResponse.cs" t="Include" />

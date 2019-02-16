@@ -13,12 +13,9 @@ namespace ModelLogic.ModelLogicInterfaces
         Task SetPhotoAsWithOutEnabledFaces(int photoId);
         Photo GetPhotoById(int id);
         string GetPhotoUrl(int photoId);
-        int GetAllPhotosWithAvailableFacesCount();
         IEnumerable<Photo> GetAllPhotosWithMoreThan50percAvailableEmotions( string emotion);
-        IEnumerable<Photo> GetPhotosWithAvailableFaces();
-        IEnumerable<PhotoInformationResponse> GetTopEmotionsPaginationPhotos(int pageNumber, string emotion,
-            int maxRequired);
-        IEnumerable<PhotoInformationResponse> GetPhotosPagination(int pageNumber, int maxRequired);
+        IEnumerable<Photo> GetPhotosWithAvailableFaces();        
+        IEnumerable<PhotoInformationResponse> GetPhotosPagination(int pageNumber, int maxRequired,List<Photo> photos);
         double GetValueBySpecificEmotion(Faces emotions, string emotionName);
 
 

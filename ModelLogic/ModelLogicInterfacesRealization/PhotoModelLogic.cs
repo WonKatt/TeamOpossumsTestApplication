@@ -42,11 +42,6 @@ namespace ModelLogic.ModelLogicInterfacesRealization
         public string GetPhotoUrl(int photoId) =>
             GetPhotoById(photoId).Url;
 
-        public int GetAllPhotosWithAvailableFacesCount()
-        {
-            return GetPhotosWithAvailableFaces().Count();
-        }
-
         public IEnumerable<Photo> GetAllPhotosWithMoreThan50percAvailableEmotions( string emotion) =>        
             GetPhotosWithAvailableFaces().Where(photo => GetValueBySpecificEmotion(photo.Faces, emotion) > 50);
         
@@ -55,51 +50,12 @@ namespace ModelLogic.ModelLogicInterfacesRealization
         {
             return GetAllPhotos().Where(photo => photo.IsFace == true);
         }
-        public IEnumerable<PhotoInformationResponse> GetTopEmotionsPaginationPhotos(int pageNumber, 
-            string emotion, int maxRequired)
-        {
-            var photos = GetAllPhotosWithMoreThan50percAvailableEmotions(emotion).ToList();
-            int paginationIndex = (pageNumber - 1) * maxRequired;
-            int remainingPhotosForPagination = photos.Count - paginationIndex;
-            
-            if (paginationIndex >= photos.Count())
-            {
-                return null;
-            }
-            else if (paginationIndex + maxRequired> photos.Count)
-            {
-                return photos
-                    .OrderByDescending(photo => GetValueBySpecificEmotion(photo.Faces,emotion))
-                    .ToList()
-                    .GetRange(paginationIndex, remainingPhotosForPagination )
-                    .Select(photo=> new PhotoInformationResponse
-                    {
-                        Id=photo.Id,
-                        Title=photo.Title,
-                        Url=photo.Url
-                    });
-                    
-            }
-            else
-            {
-                return photos
-                    .OrderByDescending(photo => GetValueBySpecificEmotion(photo.Faces,emotion))
-                    .ToList()
-                    .GetRange(paginationIndex,maxRequired)
-                    .Select(photo=> new PhotoInformationResponse
-                    {
-                        Id=photo.Id,
-                        Title=photo.Title,
-                        Url=photo.Url
-                    });
-            }
-        }
         public double GetValueBySpecificEmotion(Faces emotions, string emotionName) =>        
             (double)emotions.GetType().GetProperty(emotionName).GetValue(emotions,null);
         
-        public IEnumerable<PhotoInformationResponse> GetPhotosPagination(int pageNumber, int maxRequired)
+        public IEnumerable<PhotoInformationResponse> GetPhotosPagination(int pageNumber, int maxRequired, 
+            List<Photo> photos)
         {
-            var photos= GetAllPhotos().OrderBy(photo=>photo.Id).ToList();
             int paginationIndex = (pageNumber - 1) * maxRequired;
             int remainingPhotosForPagination = photos.Count- paginationIndex;
             
@@ -110,7 +66,6 @@ namespace ModelLogic.ModelLogicInterfacesRealization
             else if (paginationIndex + maxRequired > photos.Count)
             {
                 return photos                    
-                    .ToList()
                     .GetRange(paginationIndex, remainingPhotosForPagination )
                     .Select(photo=> new PhotoInformationResponse
                     {
@@ -122,7 +77,6 @@ namespace ModelLogic.ModelLogicInterfacesRealization
             else
             {
                 return photos
-                    .ToList()
                     .GetRange(paginationIndex,maxRequired)
                     .Select(photo=> new PhotoInformationResponse
                     {

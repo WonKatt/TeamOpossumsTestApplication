@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using ModelLogic;
 using ModelLogic.ModelLogicInterfaces;
 using ModelLogic.ModelLogicInterfacesRealization;
 using OpossumsTestApplication.Models;
@@ -18,7 +19,7 @@ namespace OpossumsTestApplication
     public class Startup
     {
         public Startup(IHostingEnvironment env)
-        {
+        {   
             Configuration = new ConfigurationBuilder()
                 .SetBasePath(env.ContentRootPath)
                 .AddJsonFile(
@@ -46,6 +47,7 @@ namespace OpossumsTestApplication
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
+            services.AddHttpClient<IApiRequest,ApiRequest>();
             services.AddTransient<IFacesModelLogic,FacesModelLogic>();
             services.AddTransient<IPhotoModelLogic,PhotoModelLogic>();
             services.AddDbContextPool<d5h6stb0hfhccqContext>(

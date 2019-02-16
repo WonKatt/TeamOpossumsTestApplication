@@ -3,6 +3,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using ModelLogic;
 using ModelLogic.ModelLogicInterfaces;
 
 namespace OpossumsTestApplication.Controllers.REST_API
@@ -13,22 +14,28 @@ namespace OpossumsTestApplication.Controllers.REST_API
     public class DbUpdateTriggersController : Controller
     {
         private readonly ILogger _logger;
-        private readonly IFacesModelLogic _facesLogic;
+        private readonly IPhotoModelLogic _photoLogic;
+        private readonly IApiRequest _apiRequest;
 
-        public DbUpdateTriggersController(ILogger<DbUpdateTriggersController> logger, IFacesModelLogic facesLogic)
+        public DbUpdateTriggersController(ILogger<DbUpdateTriggersController> logger, IPhotoModelLogic facesLogic, IApiRequest apiRequest)
         {
             _logger = logger;
-            _facesLogic = facesLogic;
-            
+            _photoLogic = facesLogic;
+            _apiRequest = apiRequest;
         }
 
        
         [HttpGet("FacesDb")]        
         public async Task<IActionResult> FacesDbUpdate()
         {
-
-            await _facesLogic.FindFacesOnNewPhotos();
-            
+            try
+            {
+                await _apiRequest.FindFacesOnPhotos(_photoLogic.GetPhotosWithNoInformationAboutFaces());
+            }
+            catch
+            {
+                return new StatusCodeResult(500);
+            }
             return Ok();
         } 
     }

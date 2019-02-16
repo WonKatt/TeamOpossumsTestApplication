@@ -9,10 +9,7 @@ namespace ModelLogic.ModelLogicInterfaces
 {
     public interface IFacesModelLogic
     {
-        Task FindFacesOnPhotos(IEnumerable<Photo> photos);
         void AddFaceEmotionsOnPhoto(int photoId, EmotionsFromResponse emotions);
-        Task FindFacesOnNewPhotos();
-        Task FindFacesOnAllPhotos();
         bool IsEmotionParamIsLegit(string emotion);
     }    
 }
