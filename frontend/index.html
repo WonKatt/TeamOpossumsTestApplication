@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+  <title>INT20H</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+	<link href="style.css">
+	<script src="js.js"></script>
+</head>
+<body>
+	<nav class="navbar fixed-bottom navbar-light  bg-light ">
+		<button type="button" class="btn btn-light  active filter-button" data-filter="Any" data-toggle="tooltip" data-placement="top" title="Any">
+			<img src="iconfinder_return_925910.png" class="img-fluid">
+			<span class="d-none d-sm-none d-md-block"> Any</span>
+		</button>
+		<button type="button" class="btn btn-light  filter-button" data-filter="Happiness" data-toggle="tooltip" data-placement="top" title="happiness">
+			<img src="iconfinder_laugh_emoticon_emoticons_emoji_emote_1_2993628.png" class="img-fluid">
+			<span class="d-none d-sm-none d-md-block"> happiness</span></button>
+		<button type="button" class="btn btn-light  filter-button" data-filter="Surprise" data-toggle="tooltip" data-placement="top" title="surprise">
+			<img src="iconfinder_shocked_emoticon_emoticons_emoji_emote_1_2993621.png" class="img-fluid">
+			<span class="d-none d-sm-none d-md-block"> surprise</span></button>
+		<button type="button" class="btn btn-light  filter-button" data-filter="Neutral" data-toggle="tooltip" data-placement="top" title="neutral">
+			<img src="iconfinder_weird_emoticon_emoticons_emoji_emote_1_2993609.png" class="img-fluid">
+			<span class="d-none d-sm-none d-md-block"> neutral</span></button>
+		<button type="button" class="btn btn-light  filter-button" data-filter="Sadness" data-toggle="tooltip" data-placement="top" title="sadness">
+			<img src="iconfinder_sad_emoticon_emoticons_emoji_emote_1_2993623.png" class="img-fluid">
+			<span class="d-none d-sm-none d-md-block"> sadness</span></button>
+		<button type="button" class="btn btn-light  filter-button" data-filter="Anger" data-toggle="tooltip" data-placement="top" title="anger">
+			<img src="iconfinder_angry_emoticon_emoticons_emoji_emote_1_2993656.png" class="img-fluid">
+			<span class="d-none d-sm-none d-md-block"> anger</span></button>
+		<button type="button" class="btn btn-light  filter-button" data-filter="Disgust" data-toggle="tooltip" data-placement="top" title="disgust">
+			<img src="iconfinder_disgusted_emoticon_emoticons_emoji_emote_1_2993645.png" class="img-fluid">
+			<span class="d-none d-sm-none d-md-block"> disgust</span></button>
+		<button type="button" class="btn btn-light  filter-button" data-filter="Fear" data-toggle="tooltip" data-placement="top" title="fear">
+			<img src="iconfinder_nervous_emoticon_emoticons_emoji_emote_1_2993582.png" class="img-fluid">
+			<span class="d-none d-sm-none d-md-block"> fear</span>
+		</button>
+	</nav>
+	<div class="container">
+		<div class="row" style="margin-bottom:180px; margin-top:60px;">
+			<div class="col-sm-12">
+				<div align="center">
+					<h1>INT20H</h1>
+					<hr class="my-4">
+					<div class="jumbotron text-center" style="margin-bottom:0px; background-color: white;">
+						<div class="row">
+							<div class="row" id="photo-grid"></div>
+							
+							
+							<div class="modal fade" id="image-gallery" tabindex="-1" role="dialog"  aria-hidden="true">
+								<div class="modal-dialog modal-lg">
+									<div class="modal-content">
+										<div class="modal-header">
+											<h4 class="modal-title" id="image-gallery-title"></h4>
+											<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button>
+										</div>
+										<div class="modal-body"><img id="image-gallery-image" class="img-responsive col-md-12" src=""></div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-light float-left" id="show-previous-image"><i class="fa fa-arrow-left"></i></button>
+											<button type="button" id="show-next-image" class="btn btn-light float-right"><i class="fa fa-arrow-right"></i></button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-xs-12">
+						<hr class="my-4">
+						<button type="button" id="next-page" class="btn btn-light btn-lg btn-block">More photos!</button>
+						<div class="col-xs-12" id="mistakes"></div>
+						<hr class="my-4">			
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html> 
