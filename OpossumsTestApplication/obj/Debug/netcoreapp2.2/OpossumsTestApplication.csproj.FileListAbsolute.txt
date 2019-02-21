@@ -12,7 +12,6 @@ C:\Users\WonKat\RiderProjects\OpossumsTestApplication\OpossumsTestApplication\bi
 C:\Users\WonKat\RiderProjects\OpossumsTestApplication\OpossumsTestApplication\bin\Debug\netcoreapp2.2\OpossumsTestApplication.dll
 C:\Users\WonKat\RiderProjects\OpossumsTestApplication\OpossumsTestApplication\bin\Debug\netcoreapp2.2\OpossumsTestApplication.pdb
 C:\Users\WonKat\RiderProjects\OpossumsTestApplication\OpossumsTestApplication\bin\Debug\netcoreapp2.2\OpossumsTestApplication.Views.dll
-C:\Users\WonKat\RiderProjects\OpossumsTestApplication\OpossumsTestApplication\bin\Debug\netcoreapp2.2\OpossumsTestApplication.Views.pdb
 C:\Users\WonKat\RiderProjects\OpossumsTestApplication\OpossumsTestApplication\obj\Debug\netcoreapp2.2\OpossumsTestApplication.RazorTargetAssemblyInfo.cache
 C:\Users\WonKat\RiderProjects\OpossumsTestApplication\OpossumsTestApplication\obj\Debug\netcoreapp2.2\OpossumsTestApplication.csproj.CopyComplete
 C:\Users\WonKat\RiderProjects\OpossumsTestApplication\OpossumsTestApplication\bin\Debug\netcoreapp2.2\FlickerDbModel.dll
